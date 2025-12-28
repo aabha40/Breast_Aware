@@ -87,5 +87,5 @@ npm run dev
 
 ## Author
 
-Purushottam Choudhary
+AABHA SHUKLA
 [GitHub](https://github.com/Purushottam29)

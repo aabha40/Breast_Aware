@@ -87,5 +87,5 @@ npm run dev
 
 ## Author
 
-AABHA SHUKLA
-[GitHub](https://github.com/Purushottam29)
+Aabha Shukla
+[GitHub](https://github.com/aabha40)
